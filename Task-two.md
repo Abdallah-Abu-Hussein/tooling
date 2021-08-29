@@ -1,6 +1,6 @@
 # Tooling  
 
-## Task one (1,2,3)
+## Task two (1,2,3)
 
 ## software development tools and techniques review
 
