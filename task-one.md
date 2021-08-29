@@ -27,6 +27,12 @@ about any thing related to the business, also the website needs to look good , t
 
 # Wireframe :
 
+Note : We did't Use any Database in this project , we used local Storage to store our data in the menu and the Cart ..
+
+![ee](images/local.jpg)
+ 
+And this is the only Data we Store in the Cart and the menu...
+
 ![ab](images/wireframe(1).jpg)
 ![ab](images/wireframe(2).jpg)
 ![ab](images/wireframe(3).jpg)
@@ -35,18 +41,24 @@ about any thing related to the business, also the website needs to look good , t
 
 # Coding and implementation technique :
 
-We will Follow the code style we have learned throughout this course. We used meaningful and descriptive names for all files, variables, function names. We Follow best practices with casing, spacing, and indentation.
+We will Follow the code style we have learned throughout this course. We will use meaningful and descriptive names for all files, variables, function names. We will Follow best practices with casing, spacing, and indentation.
 Our team will decide on standard naming conventions to use throughout the project and hold each other accountable to these standards.
 The code base should also follow similar code organization from file to file. For example, all the files that affect application styling will follow similar patterns and syntax.
 
 # Testing technique
-Answerd in Stage three.
+
+White Box testing , because we don't have QA team , testing is mostly done by  developers , who have knowledge about the internal structure of the code of the software.
 
 # List of requirements
-1. 
-2. 
-3. 
-4. 
-5. 
-6. 
+ 
+
+1. Works as expected with no bugs
+2. Has All the needed pages with clear navigation, one of which must be an"About Us"page.
+3. State is persisted between page reloads.
+4. User Can view All proudcts.
+5. User Can order any product .
+6. user Can check All products that he/she ordered in A cart page.
+7. user Can Host an Event in our Coffee shop By filling the details online.
+8. add nice CSS to the website.
+ 
 
