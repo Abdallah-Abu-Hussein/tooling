@@ -45,7 +45,13 @@ GitHub is a site that hosts Git repositories, but it also has a lot of its own f
 GitLab is a single-app DevOps platform that is radically altering the way development, security, and operations teams interact and produce software. GitLab helps organizations minimize development expense and time to market by boosting application performance from idea to production, reducing project duration from weeks to minutes.
 
 ## **our choices for the Project** :
+In Table Form  :
 
+![aa](images/Table.jpg)
+
+
+
+In Text : 
 ## **First IDE** :
 
 we picked **VSCode** over pysharm , becuse we are making bsaic web application without any use of python and VScode's features are all we need about VSCode is lightning-fast source code editor, it is ideal for everyday usage. Syntax highlighting, bracket-matching, auto-indentation, box-selection, snippets, and more are all available in VSCode, which supports hundreds of languages. You can add intuitive shortcut keys, simple customization, and community-contributed keyboard shortcut mappings, all those features is what any developer dream to have in a IDE.
@@ -56,7 +62,7 @@ we picked **linux** ubuntu distro  for many reasons , it's all around the fact i
 
 ## **Third Version-control platform** :
 
-we picked **GitHub**, the pick was a tricky one , becuase both opations were good enough for us , but we went with what our developers familiar with to save their time , when researching github and gitlab we found the difference between them is GitHub focuses on high availability and performance of its fundamental core functions, outsourcing tangential or difficult aspects to other tools ,GitLab strives to combine all features into a single, well-tested and well-integrated package. 
+we picked **GitHub**, this pick was a tricky one , becuase both opations were good enough for us , but we went with what our developers familiar with to save their time , when researching github and gitlab we found the difference between them is GitHub focuses on high availability and performance of its fundamental core functions, outsourcing tangential or difficult aspects to other tools ,GitLab strives to combine all features into a single, well-tested and well-integrated package. 
 
 
 

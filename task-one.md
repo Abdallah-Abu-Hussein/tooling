@@ -23,16 +23,20 @@ about any thing related to the business, also the website needs to look good , t
 # 3 -
 
 # Activity Digram :
+   Activity Digram depicts business and software operations as a series of actions. People, software components, and computers can all do these tasks. Flow charts are used to record the development of system processes as well as to explain business operations and use scenarios.
+
 ![aa](images/activity.jpg)
 
-# Wireframe :
+
+# Databsase 
 
 Note : We did't Use any Database in this project , we used local Storage to store our data in the menu and the Cart ..
 
 ![ee](images/local.jpg)
  
-And this is the only Data we Store in the Cart and the menu...
-
+And this is the only Data we Store in the Cart and the menu and in the whole project...
+# Wireframe :
+A wireframe is a web page layout that shows what interface components will be present on important pages. It's an important step in the interface design process. Wireframes may also be used to build the global and secondary navigation, ensuring that the site's vocabulary and structure fit user expectations.
 The Wirefram for our website: 
 ## **Home** :
 ![ab](images/wireframe(1).jpg)
