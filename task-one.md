@@ -4,9 +4,7 @@
 
 # 1 -
 
-Our business-related problem is " Selling coffee online " , a cafe owner wants to have the ability to sell his cafe producats online , and he wants his coustmrs to be able to view products online anytime they  want, and to have all the info about his business in one place, where the coustmrs know where to Communicate and ask Questions
-about any thing related to the business, also the website needs to look good , to Attract new coustmrs and keep the crunnent ones and the website also should stroe all sales data.
-
+Our business-related problem is " Selling coffee online " , a cafe owner wants to have the ability to sell his cafe products online , and he wants his customers to be able to view products online anytime they  want, and to have all the info about his business in one place, where the customers know where to Communicate and ask Questions about anything related to the business, also the website needs to look good , to Attract new customers and keep the current ones and the website also should store all sales data.
 # 2 -
 
  Risks :

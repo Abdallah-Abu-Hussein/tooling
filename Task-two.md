@@ -65,6 +65,15 @@ we picked **linux** ubuntu distro  for many reasons , it's all around the fact i
 we picked **GitHub**, this pick was a tricky one , becuase both opations were good enough for us , but we went with what our developers familiar with to save their time , when researching github and gitlab we found the difference between them is GitHub focuses on high availability and performance of its fundamental core functions, outsourcing tangential or difficult aspects to other tools ,GitLab strives to combine all features into a single, well-tested and well-integrated package. 
 
 
+# Sources :
 
+* https://code.visualstudio.com/blogs/2021/08/05/notebooks
+* https://en.wikipedia.org/wiki/Visual_Studio_Code
+* https://github.com/microsoft/vscode
+* https://www.jetbrains.com/pycharm/
+* https://arbisoft.com/blog/vs-code-versus-pycharm-the-smackdown/#:~:text=PyCharm%20is%20a%20part%20of,a%20complete%20IDE%20using%20extensions.
+* https://ssiddique.info/pycharm-vs-vscode-the-best-code-editor-for-python.html
+* https://en.wikipedia.org/wiki/Microsoft_Windows
+* https://www.edureka.co/blog/linux-vs-windows/
 
 
